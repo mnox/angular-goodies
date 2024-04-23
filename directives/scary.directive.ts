@@ -13,8 +13,7 @@ interface NewStyle {
 /**
  * Makes an element run away from the mouse cursor,
  * resets/reverts after a timeout (default 3 seconds)
- * Example:
- * <div scary></div>
+ * EX: <div scary></div>
  */
 @Directive({
     selector: '[scary]',
